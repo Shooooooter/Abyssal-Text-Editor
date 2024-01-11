@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11ec52c9-6141-4810-a9ed-26fefa1f133d" name="Changes" comment="Idk">
-      <change afterPath="$PROJECT_DIR$/src/test/java/UndoRedoManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/src/main/java/abyss/codeeditor/ui/StartThemeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/src/main/resources/abyss/codeeditor/ui/AppHome.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/src/main/resources/abyss/codeeditor/ui/StartTheme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/src/main/resources/abyss/codeeditor/ui/StartTheme.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/SourceFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/SourceFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/editor/TextEditor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/editor/UndoRedoManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/editor/UndoRedoManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/FileUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/OtherUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/src/main/java/abyss/codeeditor/ui/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/main/java/abyss/codeeditor/ui/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/src/main/resources/abyss/codeeditor/ui/App.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/ui/src/main/resources/abyss/codeeditor/ui/App.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="11ec52c9-6141-4810-a9ed-26fefa1f133d" name="Changes" comment="Idk" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +108,31 @@
       <option name="project" value="LOCAL" />
       <updated>1703965935872</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Idk">
+      <option name="closed" value="true" />
+      <created>1705005722812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705005722812</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Idk">
+      <option name="closed" value="true" />
+      <created>1705005732305</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705005732305</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Idk">
+      <option name="closed" value="true" />
+      <created>1705005802307</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705005802307</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
